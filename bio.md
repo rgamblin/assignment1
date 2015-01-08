@@ -29,6 +29,9 @@
 	written by a person in order to do anything at all. This technological revolution of ours is being held up and propagated by an army of
 	devs, and for at least the next ten thousand hours (non-consecutive!) I would like to join them.
 	
+	Given that this is my alternate bio I shall tell you the truth. I am actually an alien sent from the planet Zoom-ba-Ya in answer to the prayers
+	of those shunned on this planet to making being a nerd cool and attractive. So far, I'm making it looking amazing.
+	
 	Programming Background
 	
 	My programming experience is pretty light. I don’t have multiple years in anything and my strongest experience comes from my 
