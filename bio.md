@@ -30,4 +30,5 @@
 	IA32 Assembly language. I took but did not pass 494 last term, so I have some familiarity with CSS, HTML, JavaScript, SQL, and
 	PHP. but perhaps not as much as I had hoped. :)
 	
-	
+	My only experience outside OSU is a six month internship at Sunstone Games where I coded a lot in Lua. I used Love2D on side projects
+	and I used the Corona mobile development API on the main game. The "main game" in question was Sun Stones, a mobile puzzle game.
