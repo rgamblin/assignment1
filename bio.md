@@ -23,4 +23,10 @@
 	it’s collective consciousness, but I worry that it’s a saturated profession, that maybe we have all the games we need. I’ll
 	probably go for it anyway.
 	
+	What I'm really interested in out of all of this is the ability to code. They say you truly learn to code or whatnot after ten thousand
+	hours and I am here to get those ten thousand hours. I love what computers have done for every level of the world and I want to advance 
+	that personally. As we know and some others don't computers are just brainless, inanimate objects that need very specific instructions 
+	written by a person in order to do anything at all. This technological revolution of ours is being held up and propagated by an army of
+	devs, and for at least the next ten thousand hours (non-consecutive!) I would like to join them.
+	
 	Programming Background
