@@ -24,3 +24,10 @@
 	probably go for it anyway.
 	
 	Programming Background
+	
+	My programming experience is pretty light. I don’t have multiple years in anything and my strongest experience comes from my 
+	previous classes. 161 and 162 have given me about six months experience in C++. I took 271, giving me about three months of 
+	IA32 Assembly language. I took but did not pass 494 last term, so I have some familiarity with CSS, HTML, JavaScript, SQL, and
+	PHP. but perhaps not as much as I had hoped. :)
+	
+	
