@@ -30,3 +30,11 @@
 	devs, and for at least the next ten thousand hours (non-consecutive!) I would like to join them.
 	
 	Programming Background
+	
+	My programming experience is pretty light. I don’t have multiple years in anything and my strongest experience comes from my 
+	previous classes. 161 and 162 have given me about six months experience in C++. I took 271, giving me about three months of 
+	IA32 Assembly language. I took but did not pass 494 last term, so I have some familiarity with CSS, HTML, JavaScript, SQL, and
+	PHP. but perhaps not as much as I had hoped. :)
+	
+	My only experience outside OSU is a six month internship at Sunstone Games where I coded a lot in Lua. I used Love2D on side projects
+	and I used the Corona mobile development API on the main game. The "main game" in question was Sun Stones, a mobile puzzle game.
