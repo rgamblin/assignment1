@@ -29,6 +29,10 @@
 	written by a person in order to do anything at all. This technological revolution of ours is being held up and propagated by an army of
 	devs, and for at least the next ten thousand hours (non-consecutive!) I would like to join them.
 	
+	One activity I haven't yet pursued, but would like to, is competitive programming. I'm not a particularly competitive person but if I could
+	just put viable entries with correct solutions into the higher level competitions in the allotted time, then my coding skill is probably close to where I want it.
+	Needless to say, I will be paying a lot of attention i8s Data Structures!
+	
 	Programming Background
 	
 	My programming experience is pretty light. I don’t have multiple years in anything and my strongest experience comes from my 
